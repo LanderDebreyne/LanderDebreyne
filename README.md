@@ -4,7 +4,7 @@ Student, currently in my 2nd year of my M.Sc. of Computer Science @kuleuven.
 # 2023
 
 ## Thesis (In progress)
-Doing my master's thesis on a formal system related to effect handler oriented programming. (Related to https://github.com/yallop/effects-bibliography)
+Doing my master's thesis on extending a formal system related to effect handler oriented programming. (Related to https://github.com/yallop/effects-bibliography)
 
 ## Projects 
 #### Chess engines
@@ -32,13 +32,6 @@ I expect this to model to perform very poorly as a chess engine mainly because I
 Seems fun to train this anyway...   
 Might need some interesting modifications on the model architecture as the relevant context is important? (All previous moves in the game are relevant).    
 Application if this works decently (3000+ elo) could be fast full game analysis of chess games.   
-
-#### Diffusion-enhanced postcards
-Make a postcard service using stable diffusion models.  
-Use fixed layouts for the postcards and fixed prompts.  
-Use conventional, automated post-processing (blurs, filters).  
-Could be fun to try to make this a toy commercial application with a front-end, auth and payment integration.    
-Fun to think about deployment...
 
 # 2021-2022
 #### Haskell parser and interpreters (Closed source)
