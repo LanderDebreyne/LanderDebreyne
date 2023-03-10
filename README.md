@@ -17,8 +17,8 @@ Want to do Barebones Chess Engine in Rust this year
 
 #### Raytracer (Rust) [source](https://github.com/LanderDebreyne/rust-raytracer)
 - Low level, requires correct and efficient usage of memory
-- Requires knowledge of datastructures
-Ray tracer is not fully featured at all but can't be asked to work in this as I don't have the time and the opportunity cost is too high imo.
+- Requires knowledge of datastructures  
+- Ray tracer is not fully featured at all but can't be asked to work in this as I don't have the time and the opportunity cost is too high imo.
 
 ## Projects I would do right now if I had time (Indicative of current interests)
 #### Semantic search application
