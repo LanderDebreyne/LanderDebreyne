@@ -1,5 +1,6 @@
-### Hi, I'm Lander Debreyne 👋
-Student, currently in my 2nd year of my M.Sc. of Computer Science @kuleuven.
+### Lander Debreyne 
+Student, currently in my 2nd year of my M.Sc. of Engineering in Computer Science (Ir.) @kuleuven.  
+Later this year I will be starting as junior software engineer
 
 # 2023
 
@@ -8,18 +9,19 @@ Doing my master's thesis on extending a formal system related to effect handler 
 
 ## Projects 
 #### Chess engines
-- Low level, requires correct and efficient usage of memory
+<!--- - Low level, requires correct and efficient usage of memory
 - Requires knowledge of datastructures
-- Involves complex algorithms
+- Involves complex algorithms -->
 ###### Barebones Chess Engine (C++) [source](https://github.com/LanderDebreyne/0xChess)
 ###### Chess Engine (C++) (Closed source)
-Want to do Barebones Chess Engine in Rust this year
+<!--- Want to do Barebones Chess Engine in Rust this year -->
 
 #### Raytracer (Rust) [source](https://github.com/LanderDebreyne/rust-raytracer)
-- Low level, requires correct and efficient usage of memory
+<!--- - Low level, requires correct and efficient usage of memory
 - Requires knowledge of datastructures  
-- Ray tracer is not fully featured at all but can't be asked to work in this as I don't have the time and the opportunity cost is too high imo.
+- Ray tracer is not fully featured at all but can't be asked to work in this as I don't have the time and the opportunity cost is too high imo. -->
 
+<!---
 ## Projects I would do right now if I had time (Indicative of current interests)
 #### Semantic search application
 Make a generic semantic search application. 
@@ -32,6 +34,7 @@ I expect this to model to perform very poorly as a chess engine mainly because I
 Seems fun to train this anyway...   
 Might need some interesting modifications on the model architecture as the relevant context is important? (All previous moves in the game are relevant).    
 Application if this works decently (3000+ elo) could be fast full game analysis of chess games.   
+-->
 
 # 2021-2022
 #### Haskell parser and interpreters (Closed source)
