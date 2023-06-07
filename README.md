@@ -4,8 +4,8 @@ Later this year I will be starting as junior software engineer
 
 # 2023
 
-## Thesis (In progress)
-Doing my master's thesis on extending a formal system related to effect handler oriented programming. (Related to https://github.com/yallop/effects-bibliography)
+## Thesis 
+My master's [thesis](https://github.com/LanderDebreyne/Thesis) on creating an operational calculus for algebraic, scoped and parallel effects.
 
 ## Projects 
 #### Chess engines
